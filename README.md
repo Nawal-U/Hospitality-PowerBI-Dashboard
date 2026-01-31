@@ -36,7 +36,7 @@ Multi-line chart tracking RevPAR, ADR, and Occupancy % across weekly periods.
 - Average property rating: 3.62
 
 ## Business Insights
-- Guests often choose third-party platforms even when prices are the same. By adding perks like breakfast, airport transfers, and other packages direct company website bookings could be made more attractive, keeping the room rate steady at approximately ₹12,500.
+- Guests often choose third-party platforms even when prices are the same. By adding perks like breakfast, airport transfers, and other packages, direct company website bookings could be made more attractive, keeping the room rate steady at approximately ₹12,500.
 - Low property ratings are hurting revenue. For example, Atliq Seasons has a 2.30 rating, putting it at high risk, while properties rated 3.0–3.5 are losing moderate revenue. Monitoring these hotels and taking the necessary steps to improve the ratings could help close this gap.
 - Weekday occupancy is 20–35% lower than weekends. Programs like “Work from Hotel”, mid-week corporate packages, and partnerships with IT/consulting firms could make these days more profitable.
 - Nearly 1 in 4 bookings (24.84%) gets canceled, leading to revenue loss. Tiered cancellation policies, converting refunds to credits, or offering optional insurance could help retain more revenue.
