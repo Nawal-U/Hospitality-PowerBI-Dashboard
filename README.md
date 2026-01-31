@@ -14,10 +14,10 @@ This interactive dashboard delivers real-time visibility into key hospitality me
 
   
 ## Dataset Used
-- <a href="https://github.com/Nawal-U/Hospitality-PowerBI-Dashboard/tree/main/Datasets">Dataset <\a>
+- <a href="https://github.com/Nawal-U/Hospitality-PowerBI-Dashboard/tree/main/Datasets">Dataset<\a>
 
 ## Dashboard
-- <a href="https://github.com/Nawal-U/Hospitality-PowerBI-Dashboard/blob/main/Hospitality_PowerBI_Dashboard.png">Dashboard <\a>
+- <a href="https://github.com/Nawal-U/Hospitality-PowerBI-Dashboard/blob/main/Hospitality_PowerBI_Dashboard.png">Dashboard<\a>
 
 ## Dashboard Components
 - Executive Summary Cards
