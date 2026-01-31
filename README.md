@@ -12,7 +12,6 @@ This interactive dashboard delivers real-time visibility into key hospitality me
 -	DBRN - Daily Booked Room Nights
 -	DURN - Daily Utilized Room Nights
 
-  
 ## Dataset Used
 - <a href="https://github.com/Nawal-U/Hospitality-PowerBI-Dashboard/tree/main/Datasets">Dataset</a>
 
@@ -29,7 +28,7 @@ Donut chart breaking down revenue by Luxury vs. Business categories.
 - Trend Analysis
 Multi-line chart tracking RevPAR, ADR, and Occupancy % across weekly periods.
 
-# Key Takeaways
+## Key Takeaways
 - Total portfolio revenue: 1.69 billion
 - Average occupancy rate: 57.79%
 - Realization rate: 70.14% (opportunity for optimization)
